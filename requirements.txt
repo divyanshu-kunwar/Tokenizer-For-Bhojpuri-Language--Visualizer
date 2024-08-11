@@ -1,0 +1,6 @@
+tiktoken
+fastapi
+regex
+numpy
+jinja2
+uvicorn
